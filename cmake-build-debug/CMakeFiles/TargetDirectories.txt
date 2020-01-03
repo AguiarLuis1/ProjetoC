@@ -1,0 +1,3 @@
+C:/Users/Aguia/CLionProjects/ProjetoAED_LP2/cmake-build-debug/CMakeFiles/ProjetoAED_LP2.dir
+C:/Users/Aguia/CLionProjects/ProjetoAED_LP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aguia/CLionProjects/ProjetoAED_LP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
